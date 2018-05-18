@@ -27,6 +27,11 @@ body, html{
     font-size: 50px;
 }
 
+#moth-title a{
+    text-decoration: none;
+    color: black
+}
+
 #spacing-div{
     padding-top: 20px;
 }
